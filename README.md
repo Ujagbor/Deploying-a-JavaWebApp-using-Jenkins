@@ -49,15 +49,15 @@ This repository demonstrates the full setup and integration of a Continuous Inte
 
 #### Project Workflow:
 
-**Jenkins Installation**: Setting up Jenkins to manage the CI/CD process.
-**Java WebApp Setup**: Creating and configuring a Java WebApp project with Maven.
-**Jenkins Freestyle Job**: Automating builds and deployments.
-**GitHub Webhooks**: Enabling instant build triggers from code changes.
-**Automated Builds Verification**: Ensuring the automation setup works with code changes.
-**SonarQube Integration**: Maintaining code quality through static analysis.
-**Nexus 3 Integration**: Efficient artifact management with Docker and Jenkins.
-**Slack Notifications**: Real-time build status updates.
-**Slack-triggered Builds**: Triggering builds from Slack for quick responses.
+- **Jenkins Installation**: Setting up Jenkins to manage the CI/CD process.
+- **Java WebApp Setup**: Creating and configuring a Java WebApp project with Maven.
+- **Jenkins Freestyle Job**: Automating builds and deployments.
+- **GitHub Webhooks**: Enabling instant build triggers from code changes.
+- **Automated Builds Verification**: Ensuring the automation setup works with code changes.
+- **SonarQube Integration**: Maintaining code quality through static analysis.
+- **Nexus 3 Integration**: Efficient artifact management with Docker and Jenkins.
+- **Slack Notifications**: Real-time build status updates.
+- **Slack-triggered Builds**: Triggering builds from Slack for quick responses.
 
 #### Usage:
 Follow the detailed steps and instructions in the repository to replicate the setup. Each step is documented with necessary configuration details, commands, and screenshots to ensure a seamless experience.
