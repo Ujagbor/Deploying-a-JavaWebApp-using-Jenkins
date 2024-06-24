@@ -1,3 +1,4 @@
+<!DOCTYPE>
 <html>
 <body>
 <h2>Hello! Welcome to a freestyle job - Implementing CI using Jenkins, Tomcat, Maven and, Github World!!!</h2>
