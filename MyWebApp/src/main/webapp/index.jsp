@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE>
 <html>
   <head>
   <title>My Java Web App</title>
